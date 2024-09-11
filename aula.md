@@ -61,3 +61,7 @@ Apresentar os dados
 ### Estrutura de repetição
 
 - [x] While
+
+
+### condicionais
+- [x] Switch

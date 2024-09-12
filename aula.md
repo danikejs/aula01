@@ -74,6 +74,13 @@ Apresentar os dados
 ### modulos Node.js:
 - [x] Importar módulos (requirer, Common JS)
 - [x] biblioteca'Inquirer' para criar  prompts interativos
+- [x] fs
+
+
+### JSON
+
+-[x] JSON.parse json para js
+-[x] JSON.stringify() js para JSON
 
 
 ### programação assíncrona e promises:

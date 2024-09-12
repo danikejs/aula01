@@ -4,4 +4,5 @@
     - [x]Metas abertas
 - [x] marcar/ desmarcar metas concluídas
 - [x] remover metas 
-- sistema de mesagens
+- [x]sistema de mesagens
+-
